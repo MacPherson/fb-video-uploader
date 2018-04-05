@@ -6,7 +6,6 @@
 .flowconfig
 .env*
 .eslintrc
-src
 lib
 node_modules
 docker-compose.yml
